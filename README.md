@@ -11,5 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: here on github and email cindyjk6@gmail.com
 - 😄 Pronouns: she, her, queen, US
 - ⚡ Fun fact: My ancestors and relatives are the fastest human species on earth
+
  Check out my manual clock repository for starters then maybe some css miniguides
 
