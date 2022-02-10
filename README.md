@@ -1,15 +1,15 @@
 
 Hello there 👋
 
-- 🔭 I’m currently working on a few personal projects and learning Vanilla Javascript and its Frameworks
-- 👯 I’m looking to collaborate on more projects personal, fun, curious, simple, difficult etc..to improve my team working skills
-- 🤔 I’m looking for help with binge-watching and learning all about the backend of web development😂😂😂
-- 💬 Ask me about CSS, anything at all and I will help. Also Javascript basics and understanding its weird parts
-- 📫 How to reach me: here on github and email cindyjk6@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: My ancestors and relatives are the fastest human species on earth
+- 🔭 I’m currently working on a few personal projects and learning Vanilla Javascript and Angular
+- 👯 I’m looking to collaborate on more projects personal and professional..to improve my team working skills
 
- Check out my manual clock repository for starters then maybe some css miniguides
+- 💬 Ask me anything CSS, and I will help.
+- 📫 How to reach me: email cindyjk6@gmail.com
+
+
+
+ Check out my css miniguides
  
  
  
