@@ -8,7 +8,7 @@ I'm a Software Engineer, with experience and key knowledge in HTML, CSS and JAVA
 
 - 💼 Job interests: Software Engineer, Front Engineer, or Javascript Engineer.
 - 💡 Fun fact: When I'm not coding, I'm probably designing something on Microsoft word!😂🤣🤣
-- 📫 You can [view my resume](https://drive.google.com/file/d/1aykE4ccrbkjCvtcD9HGUcccHIEND0a9g/view?usp=sharing) and contact me by emailing cindyjk6@gmail.com
+- 📫 You can [view my portfolio](https://cindykandie.xyz) and contact me by emailing cindyjk6@gmail.com
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=cindykandie&show_icons=true&include_all_commits=true&hide_border=true" alt="Cindy's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindykandie&langs_count=8&layout=compact&hide_border=true" alt="Cindy's GitHub stats" /> |
