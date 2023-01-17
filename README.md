@@ -1,4 +1,4 @@
-# Hey, welcome 👋🏾
+# Hey!
 
 I'm a Software Engineer, with experience and key knowledge in HTML, CSS and Javascript.  Passionate about Web Development and currently working on consultation platform(ReactJs and ROR).  I have  strong critical thinking, decision making, problem solving, time management and communication skills. Constantly developing myself to be outstanding in my career . 
 **Here's a quick summary about me**:
