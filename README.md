@@ -17,4 +17,4 @@ I'm a Software Engineer, with experience and key knowledge in HTML, CSS and Java
     <img align="center" alt="CindyKandie's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cindykandie&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindykandie&langs_count=8&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Cindy's GitHub stats" />
 </div>
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="center" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
