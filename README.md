@@ -9,7 +9,7 @@ I'm a Software Engineer, with experience and key knowledge in HTML, CSS and Java
 - 💼 Job interests: Software Engineer, Front Engineer, or Javascript Engineer.
 - 🚀 2023 goal: To contribute to more open source projects
 - 💡 Fun fact: When I'm not coding, I'm probably designing something on Microsoft word!😂
-- 📫 You can [view my portfolio](https://cindykandie.github.io/microverse-portfolo) and contact me by emailing cindyjk6@gmail.com or on [LinkedIn](https://linkedin.com/in/cindykandie)
+- 📫 You can [view my portfolio](https://cindykandie.github.io/cindyk) and contact me by emailing cindyjk6@gmail.com or on [LinkedIn](https://linkedin.com/in/cindykandie)
 
 <div>
   <summary>:zap: GitHub Stats</summary>
