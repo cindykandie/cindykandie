@@ -15,9 +15,9 @@ I'm a Software Engineer, with experience and key knowledge in HTML, CSS and Java
 - Languages: JavaScript, HTML, CSS/SASS
 - Frameworks and libraries: Tailwind, React, Redux, Ruby on Rails, Node.JS
 - Testing: Jest
-- Documentation: Swagger
+- API Documentation: Swagger
 - Databases: MySQL, SQLite3, MongoDB
-- Other: Git version control, Linux, Remote Pair Programming, Webpack
+- Other: Git version control, Linux, Remote Pair Programming, Webpack, Rest API
 
 <div>
   <summary>:zap: GitHub Stats</summary>
