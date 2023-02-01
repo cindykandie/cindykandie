@@ -1,15 +1,23 @@
 # Hey!
 
-I'm a Software Engineer, with experience and key knowledge in HTML, CSS and Javascript.  Passionate about Web Development and currently working on consultation platform(ReactJs and ROR).  I have  strong critical thinking, problem solving and communication skills. Constantly developing myself to be outstanding in my career. 
+I'm a Software Engineer, with experience and key knowledge in HTML, CSS and Javascript.  Passionate about Web Development and currently working on Consultation Platform.  I have  strong critical thinking, problem solving and communication skills. Constantly developing myself to be outstanding in my career.
+
 **Here's a quick summary about me**:
 
 - 😊 Dev Cindy
 - 🌱 I'm currently an International Software Developer trainee at [Microverse](https://www.microverse.org/gclid=CjwKCAiAv9ucBhBXEiwA6N8nYF1ek2YLu_oJwcm8deytCMgQZaRPb8Gr4PMtrxXRv49nRy7mnvrwUxoCJw4QAvD_BwE).
 - 🌸 I am currently learning VueJs and Docker
 - 💼 Job interests: Software Engineer, Front Engineer, or Javascript Engineer.
-- 🚀 2023 goal: To contribute to more open source projects
-- 💡 Fun fact: When I'm not coding, I'm probably designing something on Microsoft word!😂
+- 🚀 2023 goal: To contribute to more open source projects and mentor more web development beginners
 - 📫 You can [view my portfolio](https://cindykandie.github.io/portfolio) and contact me by emailing cindyjk6@gmail.com or on [LinkedIn](https://linkedin.com/in/cindykandie)
+
+**My Technical Proficiencies**:
+- Languages: JavaScript, HTML, CSS/SASS
+- Frameworks and libraries: Tailwind, React, Redux, Ruby on Rails, Node.JS
+- Testing: Jest
+- Documentation: Swagger
+- Databases: MySQL, SQLite3, MongoDB
+- Other: Git version control, Linux, Remote Pair Programming, Webpack
 
 <div>
   <summary>:zap: GitHub Stats</summary>
