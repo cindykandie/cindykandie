@@ -6,7 +6,7 @@ I'm a Software Engineer, with experience and key knowledge in HTML, CSS and Java
 
 - 😊 Dev Cindy
 - 🌱 I'm currently an International Software Developer trainee at [Microverse](https://www.microverse.org/gclid=CjwKCAiAv9ucBhBXEiwA6N8nYF1ek2YLu_oJwcm8deytCMgQZaRPb8Gr4PMtrxXRv49nRy7mnvrwUxoCJw4QAvD_BwE).
-- 🌸 I am currently learning VueJs and Docker
+- 🌸 I am currently learning VueJs, AWS and Docker
 - 💼 Job interests: Software Engineer, Front Engineer, or Javascript Engineer.
 - 🚀 2023 goal: To contribute to more open source projects and mentor more web development beginners
 - 📫 You can [view my portfolio](https://cindykandie.github.io/portfolio) and contact me by emailing cindyjk6@gmail.com or on [LinkedIn](https://linkedin.com/in/cindykandie)
