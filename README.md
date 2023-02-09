@@ -1,6 +1,6 @@
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-I'm a Software Engineer, with experience and key knowledge in HTML, CSS and Javascript.  Passionate about Web Development and currently working on my [Consultation Platform](https://github.com/cindykandie/consalt-project).  I have  strong critical thinking, problem solving and communication skills. Constantly developing myself to be outstanding in my career.
+I'm a Software Engineer, with experience and key knowledge in HTML, CSS and Javascript.  Passionate about Web Development and currently working on my [Consultation Platform](https://cindykandie.hashnode.dev/building-a-full-web-app-consultation-platform).  I have  strong critical thinking, problem solving and communication skills. Constantly developing myself to be outstanding in my career.
 
 **Here's a quick summary about me**:
 
