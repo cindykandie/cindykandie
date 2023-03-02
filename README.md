@@ -28,6 +28,6 @@ I'm a Software Engineer, with experience and key knowledge in HTML, CSS and Java
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cindykandie">
 
 # Show your support! ⭐
-  Thank you for visiting my profile, if you like any of my projects, I appreciate your support giving a :star:.
+  Thank you for visiting my profile, if you like any of my projects, I appreciate your support giving a :star:
 <!--
 
