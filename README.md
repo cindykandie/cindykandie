@@ -9,7 +9,7 @@ I'm a Software Engineer, with experience and key knowledge in HTML, CSS and Java
 - 🌸 I am currently learning VueJs, AWS and Docker
 - 💼 Job interests: **Software Engineer**, **Front-End Engineer**, or **Javascript/React Engineer**.
 - 🚀 2023 goal: To contribute to more open source projects and mentor more web development beginners
-- 📫 You can [view my portfolio](https://cindykandie.github.io/portfolio) and contact me by emailing cindyjk6@gmail.com or on [LinkedIn](https://linkedin.com/in/cindykandie)
+- 📫 You can [view my resume]([https://cindykandie.github.io/portfolio](https://docs.google.com/document/d/1r4IL3Uj3DdMqtqOzuhbrY11Uyr9x-xdqkABepARthRU/edit?usp=sharing)) and contact me on cindyjk6@gmail.com or on [LinkedIn](https://linkedin.com/in/cindykandie)
 
 **My Technical Proficiencies**:
 - Languages: JavaScript, HTML, CSS/SASS
