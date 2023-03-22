@@ -5,7 +5,7 @@ I'm a Software Engineer, with experience and key knowledge in HTML, CSS and Java
 **Here's a quick summary about me**:
 
 - 😊 Dev Cindy
-- 🌱 I'm currently an International Software Developer trainee at [Microverse Inc](https://www.microverse.org/gclid=CjwKCAiAv9ucBhBXEiwA6N8nYF1ek2YLu_oJwcm8deytCMgQZaRPb8Gr4PMtrxXRv49nRy7mnvrwUxoCJw4QAvD_BwE).
+- 🌱 I'm currently an International Software Developer trainee at [Microverse Inc](https://www.microverse.org/).
 - 🌸 I am currently learning VueJs, AWS and Docker
 - 💼 Job interests: **Software Engineer**, **Front-End Engineer**, or **Javascript/React Developer**.
 - 🚀 2023 goal: To contribute to more open source projects and mentor more web development beginners
