@@ -1,33 +1,26 @@
-# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> I'm Cindy Kandie
 
-I'm a Software Engineer, with experience and key knowledge in HTML, CSS and Javascript.  Passionate about Web Development and currently working on my [Consultation Platform](https://cindykandie.hashnode.dev/building-a-full-web-app-consultation-platform).  I have  strong critical thinking, problem solving and communication skills. Constantly developing myself to be outstanding in my career.
+Passionate React Developer | GDSC Mentor | React Devs Kenya Organiser
 
-**Here's a quick summary about me**:
+I'm a dedicated frontend developer with a strong focus on ReactJs. I love building intuitive and visually appealing user interfaces that provide seamless user experiences. My goal is to create engaging web applications that make a positive impact.
 
-- 😊 Dev Cindy
-- 🌱 I'm currently a Frontend Engineer at Drift Consult/CarMax EA Limited
-- 🌸 I am currently learning VueJs, AWS and Docker
-- 💼 Job interests: **Software Engineer**, **Front-End Engineer**, or **Javascript/React Developer**.
-- 🚀 2023 goal: To contribute to more open source projects and mentor more web development beginners
-- 📫 You can [view my resume](https://docs.google.com/document/d/1r4IL3Uj3DdMqtqOzuhbrY11Uyr9x-xdqkABepARthRU/edit?usp=sharing) and contact me on cindyjk6@gmail.com or on [LinkedIn](https://linkedin.com/in/cindykandie)
+### 🔧 Skills and Expertise
+- Frontend Development: React, JavaScript, HTML, CSS, React, Redux, Angular, Vue
+- UI/UX Design: Wireframing, Prototyping, Responsive Design, Figma
+- Version Control: Git, GitHub
+- Project Management: Agile, Scrum
 
-**My Technical Proficiencies**:
-- Languages: JavaScript, HTML, CSS/SASS
-- Frameworks and libraries: Tailwind, React, Redux, Ruby on Rails, Node.JS
-- Testing: Jest
-- API Documentation: Swagger
-- Databases: MySQL, SQLite3, MongoDB
-- Other: Git version control, Linux, Remote Pair Programming, Webpack, Rest API
+### 🚀 Projects
+- [Joke Simulator](https://github.com/cindykandie/jokes-simulator): A collabrative responsive joke platfom website built with React and Redux. Features include joke listings, display, creation, and user authentication.
+- [Kamident Clinic](https://github.com/cindykandie/kamident-clinic): A dental clinic platform built using React and PHP. Allows users to book, call, and interact with dentists in real-time.
 
-<div>
-  <summary>:zap: GitHub Stats</summary>
-    </br>
-    <img align="center" alt="CindyKandie's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cindykandie&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindykandie&langs_count=8&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Cindy's GitHub stats" />
-</div>
+### 📫 Contact Me
+I'm always open to new opportunities and collaborations. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cindykandie/). Let's connect and discuss how we can work together to build amazing experiences!
+
+Looking forward to making a positive impact through frontend development and mentoring.
+
+Happy coding! 🚀
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cindykandie">
 
-# Show your support! ⭐
-  Thank you for visiting my profile, if you like any of my projects, I appreciate your support giving a :star:
-<!--
-
+## Show your support! Leave <img src="https://media.giphy.com/media/l1J3rGigrYfx8aKqI/giphy.gif" width="35px"> Stars!
