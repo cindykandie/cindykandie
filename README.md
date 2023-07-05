@@ -12,7 +12,7 @@ I'm a dedicated frontend developer with a strong focus on ReactJs. I love buildi
 
 ### 🚀 Projects
 - [Joke Simulator](https://github.com/cindykandie/jokes-simulator): A collabrative responsive joke platfom website built with React and Redux. Features include joke listings, display, creation, and user authentication.
-- [Kamident Clinic](https://github.com/cindykandie/kamident-clinic): A dental clinic platform built using React and PHP. Allows users to book, call, and interact with dentists in real-time.
+- [Kamident Clinic](https://kamident.vercel.app): A dental clinic platform built using React and PHP. Allows users to book, call, and interact with dentists in real time.
 
 ### 📫 Contact Me
 I'm always open to new opportunities and collaborations. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cindykandie/). Let's connect and discuss how we can work together to build amazing experiences!
