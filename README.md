@@ -5,14 +5,13 @@ Passionate React Developer | GDSC Mentor | React Devs Kenya Organiser
 I'm a dedicated frontend developer with a strong focus on ReactJs. I love building intuitive and visually appealing user interfaces that provide seamless user experiences. My goal is to create engaging web applications that make a positive impact. You can check out [my blog here](https://cindykandie.hashnode.dev/), I try to write as much and often as I can.
 
 ### 🔧 Skills and Expertise
-- Frontend Development: React, JavaScript, HTML, CSS, React, Redux, Angular, Vue
-- UI/UX Design: Wireframing, Prototyping, Responsive Design, Figma
+- Frontend Development: React, React Native, JavaScript, HTML, CSS, React, Redux, Angular, Vue
 - Version Control: Git, GitHub
 - Project Management: Agile, Scrum
 
 ### 🚀 Projects
 - [Joke Simulator](https://github.com/cindykandie/jokes-simulator): A collabrative responsive joke platfom website built with React and Redux. Features include joke listings, display, creation, and user authentication.
-- [Kamident Clinic](https://kamident.vercel.app): A dental clinic platform built using React and PHP. Allows users to book, call, and interact with dentists in real time.
+- [Kamident Clinic](https://kamident.vercel.app): A dental clinic platform built using React and PHP. Allows users to book, call, and interact with dentists in real-time.
 
 ### 📫 Contact Me
 I'm always open to new opportunities and collaborations. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cindykandie/). Let's connect and discuss how we can work together to build amazing experiences!
