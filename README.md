@@ -2,7 +2,7 @@
 
 Passionate React Developer | GDSC Mentor | React Devs Kenya Organiser
 
-I'm a dedicated frontend developer with a strong focus on ReactJs. I love building intuitive and visually appealing user interfaces that provide seamless user experiences. My goal is to create engaging web applications that make a positive impact. You can check out [my blog here](https://cindykandie.hashnode.dev/) .
+I'm a dedicated frontend developer with a strong focus on ReactJs. I love building intuitive and visually appealing user interfaces that provide seamless user experiences. My goal is to create engaging web applications that make a positive impact. You can check out [my blog here](https://cindykandie.hashnode.dev/).
 
 ### 🔧 Skills and Expertise
 - Frontend Development: React, JavaScript, HTML, CSS, React, Redux, Angular, Vue
