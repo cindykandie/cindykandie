@@ -1,22 +1,21 @@
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> I'm Cindy Kandie
 
-Passionate React Developer | GDSC Mentor | React Devs Kenya Organiser
+Passionate React and React Native Developer | GDSC Mentor | React Devs Kenya Organiser | WTM Ambassador
 
-I'm a dedicated frontend developer with a strong focus on ReactJs. I love building intuitive and visually appealing user interfaces that provide seamless user experiences. My goal is to create engaging web applications that make a positive impact. You can check out [my blog here](https://cindykandie.hashnode.dev/), I try to write as much and often as I can.
+I'm a dedicated front-end developer with a strong focus on ReactJs both on the web and native. I love building intuitive and visually appealing user interfaces that provide seamless user experiences while solving the problem. My goal is to create engaging web and mobile applications that create a positive impact. You can check out [my blog here](https://cindykandie.hashnode.dev/), I try to write as much and often as I can.
 
 ### 🔧 Skills and Expertise
-- Frontend Development: React, React Native, JavaScript, HTML, CSS, React, Redux, Angular, Vue
+- Front-end Development: React, React Native, JavaScript, HTML, CSS, Redux, Angular, Vue
 - Version Control: Git, GitHub
 - Project Management: Agile, Scrum
 
-### 🚀 Projects
-- [Joke Simulator](https://github.com/cindykandie/jokes-simulator): A collabrative responsive joke platfom website built with React and Redux. Features include joke listings, display, creation, and user authentication.
-- [Kamident Clinic](https://kamident.vercel.app): A dental clinic platform built using React and PHP. Allows users to book, call, and interact with dentists in real-time.
+### 🚀 Current Project
+- [Joke Simulator](https://github.com/cindykandie/LittleLaugh): A collabrative responsive joke app built with React Native. Features include joke listings, display, creation, and user authentication.
 
 ### 📫 Contact Me
-I'm always open to new opportunities and collaborations. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cindykandie/). Let's connect and discuss how we can work together to build amazing experiences!
+I'm always open to new opportunities and collaborations. Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/cindykandie/). Let's connect and discuss how we can work together to build amazing experiences!
 
-Looking forward to making a positive impact through frontend development and mentoring.
+I am looking forward to making a positive impact through front-end development and mentoring.
 
 Happy coding! 🚀
 
