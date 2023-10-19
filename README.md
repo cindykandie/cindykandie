@@ -10,7 +10,7 @@ I'm a dedicated front-end developer with a strong focus on ReactJs both on the w
 - Project Management: Agile, Scrum
 
 ### 🚀 Current Project
-- [Joke Simulator](https://github.com/cindykandie/LittleLaugh): A collabrative responsive joke app built with React Native. Features include joke listings, display, creation, and user authentication.
+- [Little Laugh App](https://github.com/cindykandie/LittleLaugh): A collabrative responsive joke app built with React Native. Features include joke listings, display, creation, and user authentication.
 
 ### 📫 Contact Me
 I'm always open to new opportunities and collaborations. Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/cindykandie/). Let's connect and discuss how we can work together to build amazing experiences!
