@@ -5,13 +5,13 @@ Passionate React and React Native Developer | GDSC Mentor | React Devs Kenya Org
 I'm a dedicated front-end developer with a strong focus on ReactJs both on the web and native. I love building intuitive and visually appealing user interfaces that provide seamless user experiences while solving the problem. My goal is to create engaging web and mobile applications that create a positive impact. You can check out [my blog here](https://cindykandie.hashnode.dev/), I try to write as much and often as I can.
 
 ### 🔧 Skills and Expertise
-- Front-end Development: React, React Native, JavaScript, HTML, CSS, Redux, Angular, Vue
+- Front-end Development: React, React Native, JavaScript, HTML, CSS, Tailwind, NativeBase, React Query
 - Version Control: Git, GitHub
 - Project Management: Agile, Scrum
 
 ### 🚀 Current Project
 - [Little Laugh App](https://github.com/cindykandie/LittleLaugh): A collabrative responsive joke app built with React Native. Features include joke listings, display, creation, and user authentication.
-- [French Learning App](https://github.com/cindykandie/french-stories): A French Quiz and short stories app built with React Native. Features include short stories,games and level-by-level tests made fun and knowledgeable.
+- [French Learning App](https://github.com/cindykandie/french-stories): A French Quiz and short stories app built with React Native. Features include short stories, games and level-by-level tests made fun and knowledgeable.
 
 ### 📫 Contact Me
 I'm always open to new opportunities and collaborations. Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/cindykandie/). Let's connect and discuss how we can work together to build amazing experiences!
